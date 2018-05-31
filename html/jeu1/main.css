@@ -1,0 +1,25 @@
+#container{
+  background-color: red;
+  height: 780px;
+}
+.wrapper{
+  margin: 0 auto;
+}
+
+#row1{
+  background-color: green;
+  text-align: center;
+  font-family: fantasy;
+  color: white;
+  font-style: italic;
+  font-size: 120px;
+}
+#interro{
+  height: 100px;
+  background-color: gray;
+}
+#row2{
+  margin-left: 400px;
+  background-color: yellow;
+
+}

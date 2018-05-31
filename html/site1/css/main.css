@@ -1,0 +1,119 @@
+.container{
+background-color: #34495e;
+}
+
+h1  {
+color: white;
+margin-left: 550px;
+font-family: Georgia, serif;
+margin-right: 500px;
+}
+
+.header {
+background-color: #273c75;
+
+}
+
+li a{
+color: white;
+text-decoration: none;
+}
+
+ul {
+list-style:none;
+padding:15px;
+margin-left: 350px;
+}
+
+.li{
+  margin-left: 50px;
+ display: inline-block;
+ border:1px solid white;
+ padding: 10px 40px 10px;
+
+}
+
+.mil{
+  background-color: #eeeeee;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.photo1 {
+  margin-left: 50px;
+  width:400px;
+   height:300px;
+   float: left;
+}
+
+.description1 {
+width:550px;
+ height:300px;
+margin-left: 200px;
+float: left;
+}
+
+#great{
+  margin-left: 550px;
+  margin-top: 50px;
+}
+.photos{
+  background-color: white;
+  width:200px;
+   height:280px;
+   float: left;
+   margin-left: 80px;
+margin-right: 5px;
+   padding: 5px;
+   border-radius: 5px;
+   box-shadow: 6px 6px 5px -2px rgba(0,0,0,0.75);
+}
+.ville{
+  margin-left: 55px;
+  color: black;
+}
+#to{
+  margin-left: 85px;
+}
+#lon{
+  margin-left: 80px;
+}
+#am{
+  margin-left: 70px;
+}
+.prix{
+  margin-left: 85px;
+  font-weight:bold;
+  color: #FF4500;
+}
+
+
+
+
+
+
+.clear{
+  clear: left;
+}
+#last{
+  width:600px;
+   height:400px;
+   margin-top: 50px;
+   margin-left: 50px;
+   float: left;
+}
+
+#avion{
+  float: left;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+#footer{
+  background-color: #273c75;
+}
+#pfooter{
+  color: white;
+  margin-left: 550px;
+  height:60px;
+}

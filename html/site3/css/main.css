@@ -1,0 +1,43 @@
+
+
+
+.wrapper{
+  width: 95%;
+  margin: 0 auto;
+}
+
+#col1{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+  font-style: italic;
+  color: #2C3E50;
+}
+#col2{
+  margin-top: 60px;
+}
+#col3{
+  margin-top: 60px;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+  font-style: italic;
+  color: #2C3E50;
+}
+#col4{
+  margin-top: 50px;
+}
+
+
+
+
+
+#footer{
+  background-color: black;
+  height: 100px;
+}
+#foot{
+  color: white;
+  text-align: center;
+}

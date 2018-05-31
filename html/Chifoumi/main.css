@@ -1,0 +1,47 @@
+body {
+color:black;
+background-color:white;
+background-image:url(image/deco4.jpg);
+}
+
+
+  body{
+    text-align: center;
+  }
+  form{
+    min-width: 400px;
+    width: 50%;
+    margin: 0 auto;
+  }
+  form p, form input[type="button"]{
+    width: 25%;
+    display:inline-block;
+  }
+  #resultat{
+    margin-top: 5px;
+    font-size: 18px;
+    font-family: verdana;
+  }
+#row1{
+  background-color: #3498db;
+font-family: fantasy;
+font-style: italic;
+font-size: 100px;
+color: white;
+}
+.espace{
+  height: 10px;
+}
+#choix{
+  color:white;
+  font-family: serif;
+  font-size: 20px;
+  color: black;
+}
+.p{
+
+  font-family: serif;
+  font-size: 20px;
+  color: serif;
+
+}
